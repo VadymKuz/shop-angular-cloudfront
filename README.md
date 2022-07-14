@@ -1,3 +1,9 @@
+# Links
+
+CloudFront link: https://d2wf2fb4jjcmip.cloudfront.net/
+
+S3 bucket app link (403 Forbidden due to changes in bucket’s policy): http://cloud-course-app.s3-website-eu-west-1.amazonaws.com/
+
 # Shop Angular Cloudfront
 
 Angular version: ~12.
